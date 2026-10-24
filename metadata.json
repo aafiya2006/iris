@@ -1,0 +1,7 @@
+{
+  "name": "IRIS Model 3 — Standalone Offline AI Vision Neckband",
+  "description": "Interactive 3D product engineering and technical specification for IRIS Model 3, a screenless standalone offline AI vision neckband for blind and low-vision individuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
